@@ -1,1 +1,2 @@
-pybluez2
+webbrowser
+urllib
